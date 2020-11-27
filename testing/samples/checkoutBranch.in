@@ -1,0 +1,24 @@
+>init
+<<<
++ wug.txt wug.txt
+>add wug.txt
+<<<
+>commit "wg"
+<<<
+>branch feature
+<<<
+>checkout feature
+<<<
+>status
+=== Branches ===
+*feature
+master
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+<<<

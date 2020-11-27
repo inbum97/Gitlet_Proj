@@ -1,0 +1,5 @@
+>init
+<<<
+>rm-branch master
+Cannot remove the current branch.
+<<<

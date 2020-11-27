@@ -1,0 +1,10 @@
+>init
+<<<
++ c1.txt c1.txt
+>add c1.txt
+<<<
+>commit "c1"
+<<<
+>find c3
+Found no commit with that message.
+<<<
